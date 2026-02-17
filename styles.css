@@ -1,0 +1,29 @@
+.body {
+    background-color: #e0f7fa; /* Light blue background */
+    color: #00796b; /* Dark teal text */
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #004d40; /* Darker teal for headings */
+}
+
+.header, .footer {
+    background-color: #b2dfdb; /* Light teal for header and footer */
+    padding: 1em;
+    text-align: center;
+}
+
+.button {
+    background-color: #00796b; /* Dark teal for buttons */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #004d40; /* Darker teal on hover */
+}
